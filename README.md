@@ -21,4 +21,4 @@ Lab Lens is a full stack laboratory workflow dashboard that allows chemists to a
 
 ## Important
 
-Lab Lens is an internal product and is possible for public use. This repo can be used to show an implementation of the product.
+Lab Lens is an internal product and is not available for public use. This repo can be used to show an implementation of the product.
