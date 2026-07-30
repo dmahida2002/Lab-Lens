@@ -1,0 +1,10 @@
+.git
+.gitignore
+.env
+.env.*
+!.env.example
+**/node_modules/
+**/dist/
+**/target/
+backend/src/main/resources/static/
+*.log
