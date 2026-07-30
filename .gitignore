@@ -1,0 +1,24 @@
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Java and Maven
+**/target/
+
+# Node and Vite
+**/node_modules/
+**/dist/
+
+# Generated React production files copied into Spring Boot
+backend/src/main/resources/static/
+
+# IDE and operating-system files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
